@@ -3,3 +3,9 @@ H3 {
   font-family:Trebuchet MS;
   font-size:24px;
 }
+name {
+  color:black;
+  font-family:Lucida Console;
+  text-decoration:underline;
+  font-size:36px;
+}
