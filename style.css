@@ -9,3 +9,6 @@ h2 {
   text-decoration:underline;
   font-size:36px;
 }
+p {
+  text-decoration:bold;
+}
