@@ -15,7 +15,7 @@ h2 {
   text-decoration:underline;
   font-size:36px;
 }
-p {
+.header p {
   font-weight:bold;
   font:Lucida Typewriter;
 }
