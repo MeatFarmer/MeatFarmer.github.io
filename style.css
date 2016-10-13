@@ -15,9 +15,9 @@ h2 {
   text-decoration:underline;
   font-size:36px;
 }
-.header p {
+p {
   font-weight:bold;
-  font:Lucida Typewriter;
+  font-family:Lucida, Helvetica, serif;
 }
 header {
   text-align:center;
