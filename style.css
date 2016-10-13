@@ -22,3 +22,7 @@ p {
 header {
   text-align:center;
 }
+li {
+  font-family: Lucida;
+  font-weight: 400;
+}
