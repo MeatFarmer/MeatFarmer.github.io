@@ -39,6 +39,6 @@ img {
   border-width: 5px;
 }
 a {
-  display: inline;
+  display: inline-block;
   width: 49%;
 }
