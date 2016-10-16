@@ -1,5 +1,6 @@
 body {
   background:lightgray;
+  margin:0;
 }
 h3 {
   color:red;
@@ -38,5 +39,6 @@ img {
   border-width: 5px;
 }
 a {
+  display: inline;
   width: 49%;
 }
